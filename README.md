@@ -1,2 +1,2 @@
 # Two-Way-Communication-With_Redis
-Two-Way Server Client system with Redis database
+Two-Way Server Client system with Redis database (In-Memory)
