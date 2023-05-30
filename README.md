@@ -1,2 +1,2 @@
-# Two-Way-Chatting_Redis
+# Two-Way-Communication-With_Redis
 Two-Way Server Client system with Redis database
